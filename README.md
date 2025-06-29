@@ -1,4 +1,4 @@
-# CEN100 – Introduction to Engineering Projects
+# CEN100 – Introduction to Engineering 
 
 **Institution:** Toronto Metropolitan University  
 **Course Code:** CEN100  
