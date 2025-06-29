@@ -33,8 +33,6 @@ Hands-on projects and research assignments encouraged students to think critical
 
 This repository is intended for academic reference only. All work submitted to this course must comply with [Policy 60 – Academic Integrity](https://www.torontomu.ca/senate/policies/pol60.pdf). Any unauthorized use, copying, or reproduction of the contents herein may constitute academic misconduct.
 
-Please use responsibly and uphold the integrity of your learning experience.
-
 ---
 
 © 2021 Hamza Malik 
